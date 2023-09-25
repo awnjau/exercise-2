@@ -1,0 +1,28 @@
+.ArticleCard {
+    background-color: lightseagreen;
+    border: 3px solid green;
+    border-radius: 5px;
+    color: black;
+    display:flex;
+    gap:20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-bottom: 20px;
+    padding: 30x;
+
+}
+
+.ArticleCardCont{
+    display: table-column;
+}
+.ArticleCardImage {
+    display:flex;
+    height:200%;
+    justify-content: center;
+    margin: 20px 20px 20px 20px;
+    max-width: 200px;
+}
+
+.ArticleCardImage img{
+    height: auto;
+    width: 100%
+}
