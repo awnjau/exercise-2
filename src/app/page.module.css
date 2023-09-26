@@ -1,5 +1,19 @@
 .page{
+  align-items: center;
   margin:0 auto;
   max-width:1080px;
   padding: 25px;
+}
+
+.article{
+  background-color: lightblue;
+  text-align: center;
+  font-size: 20px;
+  border:20px solid lightblue;
+  margin: 0 auto;
+}
+
+.inner{
+  background-color: white;
+  font-size: 18px;
 }
