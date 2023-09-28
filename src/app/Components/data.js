@@ -27,7 +27,7 @@ export default [
       }
     ],
     "image": {
-      "url": "https://via.placeholder.com/2000x1200",
+      "url": "https://png.pngtree.com/thumb_back/fh260/background/20220831/pngtree-halloween-3d-orange-spider-web-jack-o-lantern-image_1462956.jpg",
       "alt": "A placeholder image"
     },
     "publishedDate": "Wed Sep 04 2019 17:04:38 GMT-0400"

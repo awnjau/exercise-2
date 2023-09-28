@@ -1,19 +1,31 @@
+.main{
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  padding-left: 20px;
+  padding-top: 20px;
+}
+
 .page{
   align-items: center;
-  margin:0 auto;
-  max-width:1080px;
+  background-color:blanchedalmond;
+  min-height: 100vh;
   padding: 25px;
 }
 
-.article{
-  background-color: lightblue;
-  text-align: center;
+.articleHeader{
+  background-color:blanchedalmond;
+  background-size: cover;
+  background-blend-mode:normal;
+  font-family:Georgia, 'Times New Roman', Times, serif;
   font-size: 20px;
-  border:20px solid lightblue;
   margin: 0 auto;
+  padding: 4px;
+  text-align: center;
+  
 }
 
 .inner{
-  background-color: white;
+  background-color:blanchedalmond;
+  font-family:Georgia, 'Times New Roman', Times, serif;
   font-size: 18px;
+  padding: 50px 200px 0 200px;
 }

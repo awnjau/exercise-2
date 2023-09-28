@@ -7,7 +7,7 @@ export default function Home() {
 
   console.log(Data)
   return (
-    <main>
+    <main className = {styles.main} >
         <h1>{projectName}</h1>
         {Data.map((article) => (
         <ArticleCard
